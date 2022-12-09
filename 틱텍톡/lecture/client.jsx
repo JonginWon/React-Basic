@@ -1,5 +1,5 @@
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
-import ResponseCheck from "./ResponseCheck";
+import TicTacToe from "./TicTacToe";
 
-ReactDOM.createRoot(document.querySelector("#root")).render(<ResponseCheck />);
+ReactDOM.createRoot(document.querySelector("#root")).render(<TicTacToe />);
