@@ -1,8 +1,8 @@
-import React from "react";
+import React, { memo } from "react";
 import Td from "./Td";
 import table from "./Table";
 
-const Tr = ({ rowData, rowIndex, dispatch }) => {
+const Tr = memo(({ rowData, rowIndex, dispatch }) => {
   return (
     <tr>
       {Array(rowData.length)
@@ -20,6 +20,6 @@ const Tr = ({ rowData, rowIndex, dispatch }) => {
         ))}
     </tr>
   );
-};
+});
 
 export default Tr;
