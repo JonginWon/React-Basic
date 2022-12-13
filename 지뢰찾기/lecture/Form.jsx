@@ -39,7 +39,7 @@ const Form = () => {
       />
       <input
         type="number"
-        placeholder="지로"
+        placeholder="지뢰"
         value={mine}
         onChange={onChangeMine}
       />

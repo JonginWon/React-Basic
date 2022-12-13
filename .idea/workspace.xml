@@ -8,6 +8,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/지뢰찾기/lecture/Form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/지뢰찾기/lecture/Form.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/지뢰찾기/lecture/MineSearch.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/지뢰찾기/lecture/MineSearch.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/지뢰찾기/lecture/Table.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/지뢰찾기/lecture/Table.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/지뢰찾기/lecture/Td.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/지뢰찾기/lecture/Td.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/지뢰찾기/lecture/Tr.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/지뢰찾기/lecture/Tr.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +89,7 @@
       <workItem from="1670590459970" duration="5028000" />
       <workItem from="1670667268772" duration="3661000" />
       <workItem from="1670848726390" duration="1423000" />
+      <workItem from="1670939421918" duration="2917000" />
     </task>
     <servers />
   </component>
