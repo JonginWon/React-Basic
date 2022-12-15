@@ -7,7 +7,6 @@
     <list default="true" id="90a50618-ca42-4f41-a396-b3107cf96dbf" name="Changes" comment="v">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/지뢰찾기/lecture/MineSearch.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/지뢰찾기/lecture/MineSearch.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/지뢰찾기/lecture/Td.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/지뢰찾기/lecture/Td.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,10 @@
       <workItem from="1670667268772" duration="3661000" />
       <workItem from="1670848726390" duration="1423000" />
       <workItem from="1670939421918" duration="3272000" />
-      <workItem from="1671018863613" duration="4006000" />
+      <workItem from="1671018863613" duration="4168000" />
+      <workItem from="1671085582584" duration="7594000" />
+      <workItem from="1671100853993" duration="612000" />
+      <workItem from="1671120012394" duration="1750000" />
     </task>
     <servers />
   </component>
