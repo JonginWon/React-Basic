@@ -21,7 +21,7 @@ module.exports = {
         options: {
           presets: [
             [
-              "@babel/preset-env",
+              "@babel/preset -env",
               {
                 targets: {
                   browsers: ["> 5% in KR"],

@@ -92,15 +92,27 @@ const Td = ({ rowIndex, cellIndex }) => {
       switch (tableData[rowIndex][cellIndex]) {
         case CODE.NORMAL:
         case CODE.MINE:
-          dispatch({ type: FLAG_CELL, row: rowIndex, cell: cellIndex });
+          dispatch({
+            type: FLAG_CELL,
+            row: rowIndex,
+            cell: cellIndex,
+          });
           return;
         case CODE.FLAG_MINE:
         case CODE.FLAG:
-          dispatch({ type: QUESTION_CELL, row: rowIndex, cell: cellIndex });
+          dispatch({
+            type: QUESTION_CELL,
+            row: rowIndex,
+            cell: cellIndex,
+          });
           return;
         case CODE.QUESTION_MINE:
         case CODE.QUESTION:
-          dispatch({ type: NORMALIZE_CELL, row: rowIndex, cell: cellIndex });
+          dispatch({
+            type: NORMALIZE_CELL,
+            row: rowIndex,
+            cell: cellIndex,
+          });
           return;
         default:
           return;
