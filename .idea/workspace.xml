@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="90a50618-ca42-4f41-a396-b3107cf96dbf" name="Changes" comment="v">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/지뢰찾기/lecture/Form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/지뢰찾기/lecture/Form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/지뢰찾기/lecture/Table.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/지뢰찾기/lecture/Table.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/지뢰찾기/lecture/Td.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/지뢰찾기/lecture/Td.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/지뢰찾기/lecture/Tr.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/지뢰찾기/lecture/Tr.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/지뢰찾기/lecture/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/지뢰찾기/lecture/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +99,8 @@
       <workItem from="1671339799933" duration="42000" />
       <workItem from="1671454884629" duration="619000" />
       <workItem from="1671455541293" duration="432000" />
-      <workItem from="1671456436921" duration="860000" />
+      <workItem from="1671456436921" duration="1010000" />
+      <workItem from="1671534125761" duration="1854000" />
     </task>
     <servers />
   </component>

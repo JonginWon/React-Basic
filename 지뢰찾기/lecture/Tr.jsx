@@ -1,6 +1,6 @@
-import React, { useContext } from "react";
+import React, { useContext, memo } from "react";
 import Td from "./Td";
-import { TableContext, memo } from "./MineSearch";
+import { TableContext } from "./MineSearch";
 
 const Tr = memo(({ rowIndex }) => {
   const { tableData } = useContext(TableContext);
