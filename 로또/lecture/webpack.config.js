@@ -39,7 +39,7 @@ module.exports = {
     ],
   },
 
-  plugins: [new RefreshWebpackPlugin()],
+  plugins: ["@babel/plugin-proposal-class-properties", "react-refresh/babel"],
 
   output: {
     path: path.join(__dirname, "dist"),

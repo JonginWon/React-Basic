@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90a50618-ca42-4f41-a396-b3107cf96dbf" name="Changes" comment="v">
+      <change afterPath="$PROJECT_DIR$/react-router/Games.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router/client.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-router/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/가위바위보/lecture/RSPClass.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/로또/lecture/LottoClass.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/숫자야구/lecture/NumberBassballClass.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/지뢰찾기/lecture/Td.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/지뢰찾기/lecture/Td.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/지뢰찾기/lecture/Tr.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/지뢰찾기/lecture/Tr.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/지뢰찾기/lecture/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/지뢰찾기/lecture/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/가위바위보/lecture/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/가위바위보/lecture/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/로또/lecture/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/로또/lecture/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +43,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/whddl/Desktop/React&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/whddl/Desktop/React/react-router&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -49,6 +57,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\whddl\Desktop\React\react-router" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\whddl\Desktop\React\지뢰찾기\lecture" />
       <recent name="C:\Users\whddl\Desktop\React" />
@@ -100,7 +111,9 @@
       <workItem from="1671454884629" duration="619000" />
       <workItem from="1671455541293" duration="432000" />
       <workItem from="1671456436921" duration="1010000" />
-      <workItem from="1671534125761" duration="1854000" />
+      <workItem from="1671534125761" duration="2157000" />
+      <workItem from="1671695064623" duration="3153000" />
+      <workItem from="1671708415457" duration="4218000" />
     </task>
     <servers />
   </component>
